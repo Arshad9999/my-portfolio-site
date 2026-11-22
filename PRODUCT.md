@@ -6,7 +6,7 @@
 - **Active Research Focus**: Privacy-conscious, on-device phishing detection and applied machine learning architectures at CAS-AKTU.
 - **Core Value Proposition**: An engineer with deep theoretical foundations (GATE CS & DA curriculum author, Siemens Healthineers Innovation Fellow, Kavach Hackathon Finalist) combined with practical full-stack and freelance execution capability.
 - **Profiles**:
-  - GitHub: [https://github.com/Arshad9999](https://github.com/Arshad9999) (36 Public Repositories)
+  - GitHub: [https://github.com/Arshad9999](https://github.com/Arshad9999)
   - LinkedIn: [https://www.linkedin.com/in/md-arshad-siddiqui/](https://www.linkedin.com/in/md-arshad-siddiqui/)
   - X (Twitter): [https://twitter.com/arshad_1357](https://twitter.com/arshad_1357)
   - Email: `arshadid135@gmail.com`
@@ -19,9 +19,9 @@
    - *Academic Portal*: M.Tech CSE CAS Course Portal (`MTech-Cse-CAS-Course`).
    - *Cybersecurity & Networks*: JaalNetra / HashItOut (Kavach 2023 National Finalist).
    - *Machine Learning & AI*: Pattern Recognition Study Engine (`pattern_recognition`).
-   - *Healthcare & AI*: Healthcare Risk Prediction Suite (Cardiovascular & Parkinson's models).
-   - *Optimization*: AI-Enabled Logistics Optimizer (Smart India Hackathon · Ministry of Steel).
+   - *Healthcare & AI*: Healthcare classification projects (Parkinson’s and heart disease), linked to the public LinkedIn post.
+   - *Python*: Machine Learning Labs (regression, classification and clustering exercises).
    - *Commercial Freelance*: Zeva Makeup Studio & Salon (`zeva-makeup-studio.github.io`).
-4. **The Journey (Timeline)**: Academic and professional milestones (CAS AKTU, Siemens Healthineers Think Tank, Era University, RailTel, Amity University).
+4. **The Journey (Timeline)**: Academic and professional milestones (Zeva Makeup Studio, CAS AKTU, Siemens Healthineers, Era University, RailTel, InternPe and Amity University).
 5. **Credentials & Leadership**: National awards (Kavach, Siemens, WRO Olympiad) and industry certifications (Google Data Analytics, IBM Data Science, Meta Front-End).
 6. **Freelance Services & Direct Contact**: Clear service offerings (Resumes, Business Cards, Websites) with direct UPI deposit and inquiry workflows.

@@ -23,7 +23,7 @@
   --accent-hover: #f18255;
   --accent-subtle: rgba(226, 112, 66, 0.12);
   --accent-glow: rgba(226, 112, 66, 0.25);
-  --accent-contrast: #ffffff;
+  --accent-contrast: var(--bg-canvas);
 
   /* Text & Content Tokens (Strict WCAG AA Conformance) */
   --text-primary: #f5f4ef;
@@ -1241,6 +1241,13 @@ footer.site-footer a:hover {
   .hero-index {
     left: var(--page-gutter);
     right: var(--page-gutter);
+  }
+}
+
+@media (max-width: 600px) {
+  .timeline-item {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 6px;
   }
 }
 

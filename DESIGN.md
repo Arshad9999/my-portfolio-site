@@ -31,7 +31,7 @@ All colors are defined via root CSS custom properties. The design adheres to a r
   --accent: #e27042;
   --accent-hover: #f08355;
   --accent-subtle: rgba(226, 112, 66, 0.14);
-  --accent-contrast: #ffffff;
+  --accent-contrast: var(--bg-canvas);
 
   /* Contrast / Inverse */
   --inverse-bg: #f4f3ed;
